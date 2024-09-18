@@ -1,0 +1,9 @@
+#Cristian David Salas De La O 3-W
+
+Prueba de envio de codigo y de screenshot
+
+Cristian David Salas De La O 
+#Muestra suma de variable 
+print("la suma total de 5+7 es de:")
+print (5+7)
+
